@@ -1,0 +1,23 @@
+No Cycle
+
+Edge (14, 15)  Type (T)
+Edge (14, 15)  Type (T)
+Edge (14, 15)  Type (T)
+Edge (14, 15)  Type (T)
+Edge (14, 15)  Type (T)
+Edge (14, 15)  Type (T)
+Edge (14, 15)  Type (F)
+Edge (14, 15)  Type (F)
+Edge (14, 15)  Type (F)
+Edge (14, 15)  Type (F)
+Edge (14, 15)  Type (F)
+Edge (14, 15)  Type (F)
+Edge (14, 15)  Type (F)
+Edge (14, 15)  Type (F)
+Edge (14, 15)  Type (F)
+
+Topological Order: 3, 12, 2, 4, 7, 9, 10, 5, 1, 6, 14, 15, 13, 8, 11
+
+Minimum amount of semesters needed: 5
+
+Running time: 1.15774 ms
